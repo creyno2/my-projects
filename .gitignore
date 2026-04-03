@@ -1,0 +1,21 @@
+# OS stuff
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env & secrets (NEVER commit these!)
+.env
+.env.local
+*.key
+*.pem
+
+# Dependencies (if you add any later)
+node_modules/
+venv/
+__pycache__/
