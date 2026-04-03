@@ -3,7 +3,7 @@
 A portfolio site hosted on **GitHub Pages** showcasing my projects.
 
 ## 🌐 Live Site
-Once deployed: `https://YOUR_USERNAME.github.io/my-projects/`
+Once deployed: `https://creyno2.github.io/my-projects/`
 
 ## 🛠️ Tech Stack
 - Plain HTML + Tailwind CSS (via CDN)
